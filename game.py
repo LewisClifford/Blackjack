@@ -18,6 +18,7 @@ if start == "Yes":
         counter = int(input("Can't have more than 2500, Please enter 2500 or under"))
 else:
     print("Thank you for playing Blackjack")
+    exit()
 
 # Counter play
 
